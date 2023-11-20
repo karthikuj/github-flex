@@ -13,11 +13,7 @@ Low-key transforms your GitHub commits, giving your contribution graph a bussin'
    - Click the "Fork" button at the top right of this repository page to create your own copy.
 
 2. **Clone the Repository:**
-   - Open your terminal and run the following command to clone the forked repository to your local machine:
-
-     ```bash
-     git clone https://github.com/karthikuj/github-flex.git
-     ```
+   - Clone the forked repository to your local machine:
 
 3. **Navigate to the Project Directory:**
    - Change into the project directory using the following command:
