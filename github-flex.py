@@ -22,4 +22,4 @@ while res_date <= end:
         os.system(f'git commit --date "{res_date}" -m "#{i} commit for {res_date}"')
     res_date += datetime.timedelta(days=1)
 
-os.system(f'git push')
+os.system(f'pyhton3 github-flex.py')
